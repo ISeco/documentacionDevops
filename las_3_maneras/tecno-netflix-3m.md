@@ -1,4 +1,4 @@
-# Distribución de las tecnologías mencionadas en relación con las tres maneras de DevOps:
+# Distribución de las tecnologías  con las tres maneras de DevOps (caso Netflix):
 <div style="text-align:center;">
   <img src="https://s1.eestatic.com/2022/03/24/actualidad/659694554_222967910_864x486.jpg" alt="Descripción de la imagen" width="300">
 </div>
